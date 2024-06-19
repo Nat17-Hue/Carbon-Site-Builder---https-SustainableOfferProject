@@ -1,5 +1,5 @@
 ---
-title: sample
+title: AI and the Environment
 layout: page
 ---
 
