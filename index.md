@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Bienvenide
+# AI and the Environment
 
 Hoola carepalo
