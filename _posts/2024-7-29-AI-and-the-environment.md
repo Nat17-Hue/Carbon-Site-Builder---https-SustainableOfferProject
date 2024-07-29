@@ -1,16 +1,11 @@
 ---
-# AI and the Environment
-date: 2024-07-29
-description: Digital sustainability game
+title: AI and the environment
+date: 2024-7-29
+description:
 categories:
-  - AI
-- sustainability
-- digital
-- 
-image: <img src="https://i.ibb.co/D8bD5nv/game-1.jpg" alt="game-1" border="0">
-author_staff_member: SHL digital
+image:
+author_staff_member:
 ---
-
 We deliver CPD training for your staff or networks on AI and the environment. AI is creating exciting new opportunities in the sustainability space, just as it is elsewhere. But AI itself can have a significant carbon footprint, often invisible to the end-user. What does your organization need to know about AI and climate change? How can you show leadership within your organizational constraints?
 
 <img src="https://i.ibb.co/vBjv8tB/Game-workshop-pic-1.jpg" alt="Photograph from a workshop. Post-its with writing, game tokens, and a company 'character sheet', and glimpses of game cards" border="0">
