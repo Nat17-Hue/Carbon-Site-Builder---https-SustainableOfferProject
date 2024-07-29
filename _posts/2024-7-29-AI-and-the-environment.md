@@ -1,5 +1,5 @@
 ---
-title: AI and the Environment
+# AI and the Environment
 date: 2024-07-29
 description: Digital sustainability game
 categories:
