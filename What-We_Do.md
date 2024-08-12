@@ -12,8 +12,20 @@ We believe that every organization — whatever your sector, whatever your size 
 		<div class="container flex">
 			<div class="text">
 				
-				<p class="editable">Our  <a href="https://docs.google.com/presentation/d/1T08KqkOaDPCbWX5MuUuceSEbYffDygYGtyKxsM_txZs/edit">Digital Sustainability Game</a> is the core of our digital sustainability workshops. Get in touch if you'd like us to run a session. Or with a little preparation, you can can run the game within your organization, or deliver to external audiences. The game is open source under a permissive CC license, so you can even adapt it to create your own versions.
-		</p>
+				<table>
+  <tr>
+    <th>Community</th>
+    <th>Basic</th>
+    <th>Extended</th>
+    <th>Custom</th>
+  </tr>
+   <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+    <td>Mexico</td>
+  </tr>
+</table>
 
 			</div>
 			<div class="image">
