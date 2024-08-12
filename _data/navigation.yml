@@ -1,13 +1,13 @@
 - name: Home
-  link: /index.html
+  link: /index
 - name: What we do
-  link: /about.html
+  link: /about
 - name: News and events
   link: /blog/
 - name: Our toolkits
-  link: /Toolkits.html
+  link: /Toolkits
 - name: Our partners
-  link: /Partners.html
+  link: /Partners
 - name: Contact
-  link: /contact.html
+  link: /contact
 
