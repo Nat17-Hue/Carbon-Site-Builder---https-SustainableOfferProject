@@ -17,6 +17,7 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
 <style>
 table, th, td {
   border:0.5px solid black;
+  padding: 8px 10px;
 }
 </style>
 <body>
