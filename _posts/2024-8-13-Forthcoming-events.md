@@ -7,3 +7,5 @@ author_staff_member:
 ---
 
 Watch this space!
+
+<img src="https://i.ibb.co/2SD52Jb/sunrise.jpg" alt="sunrise" border="0">
