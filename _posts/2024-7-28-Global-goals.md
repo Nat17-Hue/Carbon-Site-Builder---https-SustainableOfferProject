@@ -13,10 +13,7 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
 <img src="https://i.ibb.co/TW6vyBR/Ferns-3.jpg" alt="Ferns-3" border="0">
 
 <table>
-  <caption>
-    Our offer <br>
-  </caption>
-  <tr>
+    <tr>
     <th scope="col">Tier</th>
     <th scope="col">Cost</th>
     <th scope="col">Details</th>
@@ -42,6 +39,7 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
     <td>Schedule a call to talk to us about your needs.</td>
   </tr>
 </table>
+<br>
 
 | Tier | Cost | Details
 |----|-----|-----|
