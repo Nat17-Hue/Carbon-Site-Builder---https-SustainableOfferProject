@@ -12,6 +12,17 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
  
 <img src="https://i.ibb.co/TW6vyBR/Ferns-3.jpg" alt="Ferns-3" border="0">
 
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+
+<table style="width:100%">
 <table>
     <tr>
     <th scope="col">Tier</th>
