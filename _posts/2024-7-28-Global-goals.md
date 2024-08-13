@@ -14,7 +14,7 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
 
 <table>
   <caption>
-    Alien football stars
+    Our offer <br>
   </caption>
   <tr>
     <th scope="col">Tier</th>
@@ -22,19 +22,24 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
     <th scope="col">Details</th>
   </tr>
   <tr>
-    <th scope="row">Community</th>
+    <th scope="row">Community Tier</th>
     <td><a href="mailto://j.c.walton@sussex.ac.uk">Get in touch</a></td>
     <td>Discounts are available for community projects, non-profit organizations, and social enterprise. For organizations who would be otherwise unable to access this resource, we may even be able to deliver free of charge, according to availability</td>
   </tr>
   <tr>
-    <th scope="row">Khiresh Odo</th>
-    <td>7</td>
-    <td>7,223</td>
+    <th scope="row">Basic</th>
+    <td>£1,000</td>
+    <td>This half-day workshop introduces the Global Goals (also known as the SDGs). You’ll have a chance to test your strategy, communication and problem-solving skills in an interactive simulation, exploring the future of sustainability.</td>
   </tr>
   <tr>
-    <th scope="row">Mia Oolong</th>
-    <td>9</td>
-    <td>6,219</td>
+    <th scope="row">Expanded</th>
+    <td><a href="mailto://j.c.walton@sussex.ac.uk">Get in touch</a></td>
+    <td>A full-day workshop will include the interactive Global Goals simulation session, and an additional session on a topic of your choice: digital sustainability, net zero strategy, climate justice, climate risk management, or biodiversity and the nature-positive economy.</td>
+  </tr>
+ <tr>
+    <th scope="row">Custom</th>
+    <td>£1,500</td>
+    <td>Schedule a call to talk to us about your needs.</td>
   </tr>
 </table>
 
