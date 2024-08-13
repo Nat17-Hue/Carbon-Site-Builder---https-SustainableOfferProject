@@ -1,6 +1,6 @@
 ---
 title: Tailored outcomes
-date: 2024-7-29
+date: 2024-7-27
 description: Tailored outcomes
 categories:
 image:

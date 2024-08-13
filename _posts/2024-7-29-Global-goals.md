@@ -1,6 +1,6 @@
 ---
 title: Global Goals Experience
-date: 2024-7-29
+date: 2024-7-28
 description: Global Goals
 categories:
 image:
@@ -9,8 +9,9 @@ author_staff_member:
 
 Learn about the UN Global Goals and how they relate to your organization. Explore the biggest challenges facing the world today, and the lessons learned from progress so far. In this interactive experience, you and your team-mates will simulate what the next decade may hold.
 
-The Global Goals Experience doesn’t just create space to learn and reflect on sustainability. It’s also an opportunity to develop your skills in leadership, innovation, strategy, and communication. The collaborative problem-solving and team-building aspects make it perfect for away days. 
-
+The Global Goals Experience doesn’t just create space to learn and reflect on sustainability. It’s also an opportunity to develop your skills in leadership, innovation, strategy, and communication. The collaborative problem-solving and team-building aspects make it perfect for away days.
+ 
+<img src="https://i.ibb.co/TW6vyBR/Ferns-3.jpg" alt="Ferns-3" border="0">
 
 | Tier | Cost | Details
 |----|-----|-----|
