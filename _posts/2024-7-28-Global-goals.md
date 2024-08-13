@@ -13,6 +13,32 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
  
 <img src="https://i.ibb.co/TW6vyBR/Ferns-3.jpg" alt="Ferns-3" border="0">
 
+<table>
+  <caption>
+    Alien football stars
+  </caption>
+  <tr>
+    <th scope="col">Tier</th>
+    <th scope="col">Cost</th>
+    <th scope="col">Details</th>
+  </tr>
+  <tr>
+    <th scope="row">Community</th>
+    <td><a href="mailto://j.c.walton@sussex.ac.uk">Get in touch</a></td>
+    <td>Discounts are available for community projects, non-profit organizations, and social enterprise. For organizations who would be otherwise unable to access this resource, we may even be able to deliver free of charge, according to availability</td>
+  </tr>
+  <tr>
+    <th scope="row">Khiresh Odo</th>
+    <td>7</td>
+    <td>7,223</td>
+  </tr>
+  <tr>
+    <th scope="row">Mia Oolong</th>
+    <td>9</td>
+    <td>6,219</td>
+  </tr>
+</table>
+
 | Tier | Cost | Details
 |----|-----|-----|
 |**Community Tier**| [Get in touch](/Contact)| Discounts are available for community projects, non-profit organizations, and social enterprise. For organizations who would be otherwise unable to access this resource, we may even be able to deliver free of charge, according to availability
