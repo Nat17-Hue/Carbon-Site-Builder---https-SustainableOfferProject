@@ -1,7 +1,6 @@
 ---
 title: AI and the environment
 date: 2024-7-29
-description: AI workshop
 categories:
 image:
 author_staff_member:
