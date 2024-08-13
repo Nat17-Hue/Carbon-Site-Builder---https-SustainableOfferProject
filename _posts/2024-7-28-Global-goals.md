@@ -20,7 +20,7 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
   </tr>
   <tr>
     <th scope="row">Community Tier</th>
-    <td><a href="/contact.html">Get in touch</a></td>
+    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
     <td>Discounts are available for community projects, non-profit organizations, and social enterprise. For organizations who would be otherwise unable to access this resource, we may even be able to deliver free of charge, according to availability</td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ The Global Goals Experience doesn’t just create space to learn and reflect on 
   </tr>
   <tr>
     <th scope="row">Expanded</th>
-    <td><a href="/contact.html">Get in touch</a></td>
+    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
     <td>A full-day workshop will include the interactive Global Goals simulation session, and an additional session on a topic of your choice: digital sustainability, net zero strategy, climate justice, climate risk management, or biodiversity and the nature-positive economy.</td>
   </tr>
  <tr>
