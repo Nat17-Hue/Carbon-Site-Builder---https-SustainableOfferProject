@@ -37,12 +37,12 @@ table, th, td {
   </tr>
   <tr>
     <th scope="row">Expanded</th>
-    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
+    <td>£1,500</td>
     <td>his full-day workshop includes the Digital Sustainability Game, exploring AI for sustainability and the sustainability of AI. It includes an additional session focused on Responsible AI and AI Impact Assessments. </td>
   </tr>
  <tr>
     <th scope="row">Custom</th>
-    <td>£1,500</td>
+    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
     <td>Schedule a call to talk to us about your needs.</td>
   </tr>
 </table>
