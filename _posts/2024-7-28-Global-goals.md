@@ -42,12 +42,12 @@ table, th, td {
   </tr>
   <tr>
     <th scope="row">Expanded</th>
-    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
+    <td>£1,500</td>
     <td>A full-day workshop will include the interactive Global Goals simulation session, and an additional session on a topic of your choice: digital sustainability, net zero strategy, climate justice, climate risk management, or biodiversity and the nature-positive economy.</td>
   </tr>
  <tr>
     <th scope="row">Custom</th>
-    <td>£1,500</td>
+    <td><a href="https://nat17-hue.github.io/Carbon-Site-Builder---https-SustainableOfferProject/contact/">Get in touch</a></td>
     <td>Schedule a call to talk to us about your needs.</td>
   </tr>
 </table>
